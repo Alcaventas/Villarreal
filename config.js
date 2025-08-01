@@ -9,10 +9,8 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
   global.owner = [
-  [ '254575982448677@lid', 'AdrianOficial', true ],
-  [ '172056423456949@lid', 'Barboza', true ],
-  [ '111270153982054@lid', 'BAJO BOTS', true ],
-  [ '254575982448677@lid',     'AdrianOficial', true ],
+  [ '528241050228@lid', 'AlcaOfficial', true ],
+
   [ '', true ],
   [ '', true ]
   ]
@@ -23,19 +21,19 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `[ 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐁𝐲`
-global.author = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃]'
-global.stickpack = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃'
-global.stickauth = '𝐁𝐲 𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃'
-global.wm = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃'
-global.dev = '𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐁𝐲 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐬 𝐠𝐫𝐮𝐩'
-global.wait = '*𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫 𝐚𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝐦𝐨𝐦𝐞𝐧𝐭𝐨\n\n> 𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃*'
-global.botname = '[ 𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃 ]'
-global.textbot = `𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐬 𝐛𝐲 𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃`
+global.packname = `✔️𝗔𝗹𝗰𝗮|𝗕𝗼𝘁`
+global.author = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.stickpack = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.stickauth = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.wm = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.dev = '𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐁𝐲 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐬 '
+global.wait = '*𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫 𝐚𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝐦𝐨𝐦𝐞𝐧𝐭𝐨\n\n> 𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.botname = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.textbot = `𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐬 𝐛𝐲 𝘼𝙡𝙘𝙖𝙨𝙝𝙤𝙥`
 global.dev = '𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐁𝐲 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐬 𝐠𝐫𝐮𝐩'
 global.listo = '*𝐄𝐱𝐢𝐭𝐨*'
-global.namechannel = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃'
-global.channel = 'https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W'
+global.namechannel = '𝗔𝗹𝗰𝗮|𝗕𝗼𝘁|'
+global.channel = 'https://chat.whatsapp.com/ByQ7EqfLdCz0560VXNKDif'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -44,9 +42,9 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI'
-global.canal = 'https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W'
-global.insta = 'https://instagram.com/adri.analegresanchez'
+global.group = 'https://chat.whatsapp.com/ByQ7EqfLdCz0560VXNKDif'
+global.canal = 'https://chat.whatsapp.com/ByQ7EqfLdCz0560VXNKDif'
+global.insta = 'https://instagram.com/alcashop.ff'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
